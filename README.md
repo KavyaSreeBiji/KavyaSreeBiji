@@ -14,7 +14,6 @@
 - 🧩 I build full-stack apps that center on accessibility — for elderly learners, rural users, and underserved communities
 - 🤖 Comfortable working LLM APIs (Groq, Gemini) into real product flows, not just demos
 - 🏛️ Secretary, IEEE CUSAT Student Branch · Publicity Manager, IEEE PIE Kerala Section
-- 🔬 Machine Learning Intern @ Keltron Knowledge Centre
 
 ---
 
